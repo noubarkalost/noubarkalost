@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Noubar Front-End Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noubarkalost&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubarkalost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubarkalost&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
