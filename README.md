@@ -6,10 +6,10 @@
 
 ## I'm a Student right now, but not for eternity !!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently learning everything 🧑‍🏫
+- 🍻 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more technologies
-- ⚡ Fun fact: I love to play guitar
+- ⚡ Fun fact: I know about Renewable Energy way more than Programming, beside I like it more too 🤫
 
 ### Want to know more about me ?
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
