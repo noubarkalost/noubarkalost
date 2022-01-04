@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Noubar Front-End Developer
+Hi there 👋 I'm Noubar - Software Engineer specialized in Front-End Development
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noubarkalost&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubarkalost&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## I'm a Student right now, but not for eternity !!
+I'm a Student right now, but not for eternity !!
 
 - 🌱 I’m currently learning everything like React/Angular🧑‍🏫
 - 🍻 I’m looking to collaborate with other developers
