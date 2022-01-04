@@ -6,9 +6,9 @@
 
 ## I'm a Student right now, but not for eternity !!
 
-- 🌱 I’m currently learning everything 🧑‍🏫
+- 🌱 I’m currently learning everything like React/Angular🧑‍🏫
 - 🍻 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn more technologies
+- 🥅 2022 Goals: Become a Mid software engineer
 - ⚡ Fun fact: I know about Renewable Energy way more than Programming, beside I like it more too 🤫
 
 ### Want to know more about me ?
