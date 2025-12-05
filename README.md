@@ -4,12 +4,11 @@ Hi there 👋 I'm Noubar - Software Engineer specialized in Front-End Developmen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubarkalost&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I'm a Student right now, but not for eternity !!
-
-- 🌱 I’m currently learning everything like React/Angular🧑‍🏫
-- 🍻 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Become a Mid software engineer
-- ⚡ Fun fact: I know about Renewable Energy way more than Programming, beside I like it more too 🤫
+🏆 Frontend Development Expertise – Proficient in JavaScript, Angular, and TypeScript, with advanced understanding of browser APIs and UI design principles.
+⚙️ JavaScript Ecosystem Mastery – Deep knowledge of JavaScript frameworks, development tools, and in-browser JavaScript execution.
+💡 Software Engineering Fundamentals – Strong grasp of software engineering knowledge, techniques, and design patterns.
+🤝 Teamwork & Collaboration Leadership – Proven ability to foster teamwork, collaboration, and effective communication within development teams.
+🚀 Agile Methodologies & Process Management – Experienced in Agile and Scrum methodologies, with skills in estimation, task management, and version control.
 
 ### Want to know more about me ?
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
