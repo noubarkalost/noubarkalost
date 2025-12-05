@@ -1,4 +1,4 @@
-Hi there 👋 I'm Noubar - Software Engineer specialized in Front-End Development
+Hi there 👋 I'm Noubar - Frontend Angular Developer at EPAM Systems
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noubarkalost&show_icons=true&theme=radical&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noubarkalost&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,6 +9,7 @@ Hi there 👋 I'm Noubar - Software Engineer specialized in Front-End Developmen
 💡 Software Engineering Fundamentals – Strong grasp of software engineering knowledge, techniques, and design patterns.
 🤝 Teamwork & Collaboration Leadership – Proven ability to foster teamwork, collaboration, and effective communication within development teams.
 🚀 Agile Methodologies & Process Management – Experienced in Agile and Scrum methodologies, with skills in estimation, task management, and version control.
+📚 Currently studying Data Structures & Computer Graphics (CS degree)
 
 ### Want to know more about me ?
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
